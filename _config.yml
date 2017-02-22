@@ -7,9 +7,9 @@ permalink:           pretty
 # Setup
 title:               tronica
 tagline:             art colective
-url:                 http:/tronica.github.io
+url:                 http://tronica.github.io
 paginate:            1
-baseurl:             "http://tronica.github.io/poole/"
+baseurl:             "http://tronica.github.io/poole"
 
 # Assets
 #
