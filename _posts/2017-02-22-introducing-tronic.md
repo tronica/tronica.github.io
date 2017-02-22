@@ -7,9 +7,7 @@ title: Introducing Tronic
   Tronic is an art collective based out of Hong Kong.
 </p>
 
-Tronic is an art collective based out of Hong Kong.
-
-They created two works for a recent Electronic music and art festival in Hong Kong called Electric Museum organised by Totoro Typhoon.
+Tronic created two works for a recent Electronic music and art festival in Hong Kong called Electric Museum organised by Totoro Typhoon.
 
 * [Totoro Typhoon](https://www.facebook.com/TotoroTyphoon/)
 * [Electric Museum](https://www.facebook.com/events/594760050718064/)
