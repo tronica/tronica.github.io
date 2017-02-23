@@ -21,6 +21,8 @@ The group was founded in Janurary 2017 and consits of three members to date.
 * Patrick Raiber [zipatrick](https://github.com/zipatrick) 
 * Marc Linder 
 
+![tronic drums](/public/drums-tt.jpg)
+
 If you would like to get involved contact us through out GitHub group [tronic](https://github.com/tronica)
 
 Thanks for reading!

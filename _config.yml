@@ -9,7 +9,7 @@ title:               tronica
 tagline:             art colective
 url:                 https://tronica.github.io
 paginate:            1
-baseurl:             "https://tronica.github.io/poole/"
+baseurl:             "https://tronica.github.io/"
 
 # Assets
 #
