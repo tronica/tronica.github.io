@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-# About
-
+<p class="message">
 We are an art collective based out of Hong Kong. We are currently made up of 3 artists. 
+</p>
 
 ## Rhys Turner
 Hong Kong based Australian artist Rhys Turner mixes art and technology in hope to enlighten through the viewer/user/author experience of his art. Completing a Masters of Visual Arts at Sydney College of the Arts in Media Arts in 2005 and winning an Australian Postgraduate Award for the degree, Rhys Turner has been interested in interactive and new media modes since exhibiting in the students section of 2001: A space Odyssey: Sensation and Immersion, NSW Art Gallery 2001. His work moves through different interactive and new media forms form Web, Video and NetArt to Interactive Sculpture, Interactive Installations and Performance.
