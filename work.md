@@ -7,4 +7,4 @@ title: Work
 Watch this space to find out more.
 </p>
 
-<img src="{{ site.baseurl }}/public/drums-tt.jpg" alt="tronic-drums" />
+<img src="{{ site.baseurl }}/public/demo.gif" alt="tronic-drums" />
